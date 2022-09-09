@@ -5,3 +5,5 @@ module.exports = defineConfig({
 module.exports = {
   publicPath: '/lorenzokimarthur.com/'
 }
+
+/dist
