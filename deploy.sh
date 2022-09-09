@@ -13,7 +13,7 @@ git init
 git add -A 
 git commit -m 'New Deployment'
 
-git push -f git@github.com:artdev-hash/lorenzokimarthur.com.git master:main
+git push -f git@github.com:artdev-hash/lorenzokimarthur.com.git master:gh-pages
 
 cd -
 
