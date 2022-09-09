@@ -1,4 +1,4 @@
-!# lorenzokimarthur.com
+
 
 ## Project setup
 ```
