@@ -1,5 +1,7 @@
 module.exports = {
-  publicPath: '/lorenzokimarthur.com/',
+  publicPath: process.env.NODE_ENV === 'development'
+    ? '/lorenzokimarthur.com/'
+    : '/',
   outputDir: 'dist',
   assetsDir: 'assets',
   transpileDependencies: true
