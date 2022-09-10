@@ -4,6 +4,5 @@ module.exports = {
     : '/',
   outputDir: 'dist',
   assetsDir: 'assets',
-  componentsDir: 'components',
   transpileDependencies: true
 }
