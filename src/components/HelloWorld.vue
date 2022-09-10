@@ -34,7 +34,7 @@
 
 
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=visitors"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=MyVisitorsonGithub"/></p>
   </div>
 </template>
 
