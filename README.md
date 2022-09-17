@@ -1,1 +1,1 @@
-<img src="./src/artdev-hash.jpg" width="100%">
+<img src="./src/assets/artdev-hash.jpg" width="100%">
