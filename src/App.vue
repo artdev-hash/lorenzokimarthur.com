@@ -5,16 +5,16 @@
   <img alt="kraken" src="./assets/gitkraken-icon.svg" width="40" height="40">
 
 
-  <artdev msg="Thank you for visiting"/>
+  <HelloWorld msg="Thank you for visiting"/>
 </template>
 
 <script>
-import artdev from './components/artdev.vue'
+import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    artdev
+    HelloWorld
   }
 }
 </script>
