@@ -2,5 +2,7 @@
 
 Thank you for visiting....
 
-lorenzokimarthur.com
+https://www.lorenzokimarthur.com/
+
+
 
