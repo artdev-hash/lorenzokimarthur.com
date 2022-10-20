@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-     I'm <a href="https://twitter.com/devkimlorenzo" target="_blank" rel="noopener"> <b>Kim Arthur Lorenzo</b> </a>, a <b>Self taught Developer</b> 👨‍💻 aspiring to become an Expert in the field of <b>Mobile</b> development.
+     I'm <a href="https://github.com/artdev-hash" target="_blank" rel="noopener"> <b>Kim Arthur Lorenzo</b> </a>, a <b>Self taught Developer</b> 👨‍💻 aspiring to become an Expert in the field of <b>Mobile</b> development.
     </p>
     <ul>- 👨‍💻 Pronouns: he/him/his.. </ul>
     <ul>- 🚀 Improving 1% everyday..</ul>
