@@ -32,6 +32,15 @@
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="aftereffects" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="30" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"></code>
  </ul>
 
 
