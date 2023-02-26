@@ -13,7 +13,7 @@
 </ul>
 <ul>- ⚡ Fun fact : love mountainbike 🚴‍♂️ rides, can do eskrima 🥋 and i love ramen 🍜 ..</ul>
 <ul>**:writing_hand:** **Read, Collaborate, Follow**<br>
-      <a href="https://tree-nation.com/trees/view/4050126" target="blank"><img src="./src/assets/treenation.png" alt="artdev-hash" height="30" width="30" /></a></ul>
+      <a href="https://tree-nation.com/trees/view/4050126" target="blank"><img src="@/assets/treenation.png" alt="artdev-hash" height="30" width="30" /></a></ul>
 <ul>- 💻 Language and Tools :
 <br><br><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></code>
